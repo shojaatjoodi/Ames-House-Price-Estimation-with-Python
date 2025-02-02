@@ -1,4 +1,4 @@
-# Ames-House-Price-Estimation-with-Python
+# Ames House Price Estimation with Python
 
 Project Overview:
 This project focuses on predicting house prices in Ames, Iowa, utilizing advanced statistical analysis and supervised learning algorithms. The dataset used for this analysis was compiled by Dean De Cock, specifically for data science education. The primary objective is to leverage the dataset to develop a model that can estimate the price of a house based on user-inputted features, effectively assisting potential buyers in determining the approximate cost of their dream home.
